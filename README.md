@@ -6,7 +6,7 @@ Esse é um aplicativo android escrito com java muito simples que se trata de um 
 
 ![Alt](https://github.com/NKLzT/GeoQuiz/blob/main/device-2023-04-19-011506.gif)
 
-<h1>✔️ Técnicas e tecnologias utilizadas<h1> <br>
+<h1>✔️ Técnicas e tecnologias utilizadas </h1> <br>
 O App foi desenvolvido no Android Studio com a API 28 e foi atualizado para a API 30 do Android. Segue abaixo as técnicas e tecnologias utilizadas:<br>
 
 Activities: componente do Android para representar cada tela <br>
