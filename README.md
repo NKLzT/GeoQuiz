@@ -4,5 +4,6 @@
 
 Esse é um aplicativo android escrito com java muito simples que se trata de um jogo "GeoQuiz" para você responder Sim ou Não para algumas perguntas com o tema de geografia
 
-![Alt Text width="500" height="250"](https://github.com/NKLzT/GeoQuiz/blob/main/device-2023-04-19-011506.gif)
-<img src="[https://github.com/NKLzT/GeoQuiz/blob/main/device-2023-04-19-011506.gif)" width="500" height="250" alt="Alt Text">
+![Alt](https://github.com/NKLzT/GeoQuiz/blob/main/device-2023-04-19-011506.gif)
+<img src="github.com/NKLzT/GeoQuiz/blob/main/device-2023-04-19-011506.gif alt="Alt Text" width="auto" height="200">
+
