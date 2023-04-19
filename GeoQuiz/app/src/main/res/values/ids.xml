@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="question_text_view" type="id" />
+    <string name="pergunta1">Belo Horizonte é a capital de Minas Gerais?</string>
+    <string name="pergunta2">O Brasil é o maior país da América do Sul?</string>
+    <string name="pergunta3">O Amazonas é o maior estado do Brasil?</string>
+    <string name="pergunta4">O Rio de Janeiro é a capital do Brasil?</string>
+    <string name="pergunta5">O clima predominante no sul do Brasil é tropical?</string>
+</resources>

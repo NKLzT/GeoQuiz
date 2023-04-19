@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">Sim</string>
+    <string name="false_buton">Não</string>
+    <string name="correta_toast">Resposta Correta!!!</string>
+    <string name="errada_toast">Resposta Errada!!!</string>
+    <string name="proxima_button">Proxima</string>
+</resources>
